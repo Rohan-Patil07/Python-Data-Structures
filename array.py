@@ -1,3 +1,6 @@
+#Python Data Strucures-
+    #Array
+
 class Array(object):
     ''' sizeOfArray: denotes the total size of the array to be initialized
        arrayType: denotes the data type of the array(as all the elements of the array have same data type)
@@ -53,3 +56,5 @@ if __name__ == '__main__':
     a.insert(3, 1)
     a.insert(4,7)
     print(len(a))
+
+    #
